@@ -23,11 +23,8 @@
       <file leaf-file-name="zhihu.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zhihuuser2/spiders/zhihu.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-103">
-              <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
-              <folding>
-                <element signature="e#2#39#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-238">
+              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -44,8 +41,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/zhihuuser2/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="79" column="27" selection-start-line="79" selection-start-column="27" selection-end-line="79" selection-end-column="27" />
+            <state relative-caret-position="378">
+              <caret line="96" column="6" selection-start-line="96" selection-start-column="6" selection-end-line="96" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -62,8 +59,8 @@
       <list>
         <option value="$PROJECT_DIR$/zhihuuser2/items.py" />
         <option value="$PROJECT_DIR$/zhihuuser2/pipelines.py" />
-        <option value="$PROJECT_DIR$/zhihuuser2/settings.py" />
         <option value="$PROJECT_DIR$/zhihuuser2/spiders/zhihu.py" />
+        <option value="$PROJECT_DIR$/zhihuuser2/settings.py" />
       </list>
     </option>
   </component>
@@ -137,6 +134,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1535" height="904" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19403973" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -186,9 +184,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
-          <folding>
-            <element signature="e#2#39#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -217,9 +212,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" column="18" lean-forward="true" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
-          <folding>
-            <element signature="e#2#39#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -234,9 +226,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
-          <folding>
-            <element signature="e#2#39#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -298,18 +287,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/zhihuuser2/spiders/zhihu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-103">
-          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
-          <folding>
-            <element signature="e#2#39#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-238">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/zhihuuser2/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="79" column="27" selection-start-line="79" selection-start-column="27" selection-end-line="79" selection-end-column="27" />
+        <state relative-caret-position="378">
+          <caret line="96" column="6" selection-start-line="96" selection-start-column="6" selection-end-line="96" selection-end-column="6" />
         </state>
       </provider>
     </entry>

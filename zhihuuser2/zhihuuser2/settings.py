@@ -94,7 +94,7 @@ ITEM_PIPELINES = {
 
 SCHEDULER = "scrapy_redis.scheduler.Scheduler"
 
-
+#ceshi
 DUPEFILTER_CLASS = "scrapy_redis.dupefilter.RFPDupeFilter"
 
 REDIS_URL = "redis://root:redistest@42.120.19.102:6379"
